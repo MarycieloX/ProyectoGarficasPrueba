@@ -1,7 +1,7 @@
 #pragma once
 #ifndef __MODEL_H__
 #define __MODEL_H__
-
+//creacion de modelos
 #include "Mesh.h"
 #include <string>
 #include "Transformation.h"

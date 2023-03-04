@@ -1,6 +1,6 @@
 #include "Model.h"
 #include "Dependencies\soil\include\SOIL.h"
-//creacion del modelo
+//creacion de modelos
 GLint Model::TextureFromFile(const char* path, std::string directory)
 {
 	std::string filename = std::string(path);
