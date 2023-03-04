@@ -150,6 +150,9 @@
     <ClCompile Include="Constraint.cpp">
       <Filter>Source Files\Cloth</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\JIMMPC\Descargas\Constraint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Texture.h">

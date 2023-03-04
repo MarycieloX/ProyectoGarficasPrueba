@@ -11,6 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\JIMMPC\Descargas\Constraint.cpp" />
     <ClCompile Include="Animation.cpp" />
     <ClCompile Include="Atmosphere.cpp" />
     <ClCompile Include="Audio.cpp" />
