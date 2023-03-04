@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\JIMMPC\Descargas\Constraint.h" />
+    <ClInclude Include="..\..\..\JIMMPC\Descargas\Particle.h" />
     <ClInclude Include="Animation.h" />
     <ClInclude Include="Atmosphere.h" />
     <ClInclude Include="Audio.h" />

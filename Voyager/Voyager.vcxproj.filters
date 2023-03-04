@@ -260,5 +260,8 @@
     <ClInclude Include="..\..\..\JIMMPC\Descargas\Constraint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\..\JIMMPC\Descargas\Particle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
