@@ -7,16 +7,7 @@
 #include "Weapon.h"
 #include "SpotLight.h"
 
-class Player
-{
-public:
-	~Player();
 
-	static Player& GetInstance()
-	{
-		static Player instance;
-		return instance;
-	}
 
 	Player(Player const&) = delete;
 	void operator=(Player const&) = delete;
