@@ -60,4 +60,4 @@ private:
 	void StopMoving();
 };
 
-#endif // !__PLAYER_H__
+#endif // !__PLAYER_H__ 
