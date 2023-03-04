@@ -25,11 +25,11 @@ public:
 	~Text() {};
 
 	// Setters
-	void SetPosition(glm::vec2 pos)	{ m_position = pos; }
-	void SetColor(glm::vec3 col)	{ m_color = col; }
-	void SetScale(GLfloat scale)	{ m_scale = scale; }
-	void SetText(std::string text)	{ m_text = text; }
-	void SetSpacing(GLfloat space)  { m_spacing = space; }
+	void SetPosition(glm::vec2 pos) { m_position = pos; }
+	void SetColor(glm::vec3 col) { m_color = col; }
+	void SetScale(GLfloat scale) { m_scale = scale; }
+	void SetText(std::string text) { m_text = text; }
+	void SetSpacing(GLfloat space) { m_spacing = space; }
 
 	void Configure(std::string font);
 	void Render();
