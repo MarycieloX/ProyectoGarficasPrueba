@@ -12,6 +12,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\JIMMPC\Descargas\Constraint.cpp" />
+    <ClCompile Include="..\..\..\JIMMPC\Descargas\Particle.cpp" />
     <ClCompile Include="Animation.cpp" />
     <ClCompile Include="Atmosphere.cpp" />
     <ClCompile Include="Audio.cpp" />
